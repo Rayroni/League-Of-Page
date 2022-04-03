@@ -6,6 +6,6 @@
      alt="League Page">
      One version of League of Page made by me and my friend @TorugoJS
      
-    <h2>Technologies Used:<h2>
+ <h3>Technologies Used:<h3>
  <li>Html</li>
  <li>CSS</li>
